@@ -5,6 +5,11 @@ This is a Next.js application for the frontend of a cab system.
 - Frontend : https://cab-system-frontend-ankit.vercel.app/
 - Backend : https://cab-system-backend-3jxx.onrender.com
 
+## Server side
+This message is shown if backend is working properly.
+![Screenshot 2024-08-12 230359](https://github.com/user-attachments/assets/7f0fd9d8-0b3b-4cb6-9935-cdcdd71be572)
+
+
 # Features
 ## ✅ Car Availability
 - After a booking is done that cab will not be available to other until its journey is over.
